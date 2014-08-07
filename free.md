@@ -9,7 +9,7 @@
  
 [PHPWind](http://www.phpwind.net/)
 * 个人使用免费，商业用途需要授权
-* 相比discuz! x,功能弱一点，[参考]（http://zhidao.baidu.com/link?url=FD-Fkuq35LK3MltiLqCjxKVsctMRdCeZAGlpZzuffUPz_me7Jy5-i-XMSXNJZfWjEJsftsV34_xGCSdaNvrjIa）
+* 相比discuz! x,功能弱一点，[参考](http://zhidao.baidu.com/link?url=FD-Fkuq35LK3MltiLqCjxKVsctMRdCeZAGlpZzuffUPz_me7Jy5-i-XMSXNJZfWjEJsftsV34_xGCSdaNvrjIa)
 
 
 
