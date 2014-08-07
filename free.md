@@ -12,6 +12,14 @@
 * 个人使用免费，商业用途需要授权
 * 相比discuz! x,功能弱一点，[参考](http://zhidao.baidu.com/link?url=FD-Fkuq35LK3MltiLqCjxKVsctMRdCeZAGlpZzuffUPz_me7Jy5-i-XMSXNJZfWjEJsftsV34_xGCSdaNvrjIa)
 
+类似的还有：
+LeadBBS
+BBS3000
+雷傲
+BBSxp
+动网
+phpbb
+
 
 #CMS
 * drupal号称是对搜索引擎最友好的cms，也是最强大的cms之一，奥巴马的网站就是用的DRUPAL，上手难，外国人的思维和我们的就是不一样，drupal、joomla、wordpress给出来的全部是一个毛坯房，然后让你自己在这里安个窗户，在那里装个防盗门！总之要自己动手.drupal装完之后看起来就是一个博客，一个还没有wordpress好用的博客。不过相信英文不错的，技术过得去的选手用起来蛮爽的吧！
