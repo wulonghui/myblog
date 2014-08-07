@@ -1,6 +1,7 @@
 
+[针对PHP开源软件的二次开发提供的交流社区](http://bbs.php100.com/thread-htm-fid-25-type-82-page-1.html)
+
 [源码哥](http://www.ymg.cc)
-* 免费
 * 可以下载一下php网站源码，功能简单，包含数据库。
 
 #论坛系统
